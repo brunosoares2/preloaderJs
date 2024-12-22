@@ -16,7 +16,7 @@ overlay.style.cssText = `
 
 const svgImage = document.createElement('img');
 svgImage.id = 'svgImage';
-svgImage.src = 'https:portal.parcerseguros.com.br/imagem.svg';
+svgImage.src = 'https://portal.parcerseguros.com.br/imagem.svg';
 svgImage.style.cssText = `
     max-width: 100%;
     max-height: 100%;
